@@ -25,3 +25,11 @@ This project demonstrates how algorithmic improvements can enhance problem-solvi
 
 ## Author
 Aliyah Benson
+
+## How to Run
+
+1. Download the project files
+2. Open the desired task folder in Visual Studio Code
+3. Make sure the Python file and input files are in the same folder
+4. Click "Run" to execute the program
+5. View results in the terminal
